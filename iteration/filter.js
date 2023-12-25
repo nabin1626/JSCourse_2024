@@ -1,3 +1,16 @@
+// const myNums = [2,3,4,5,6,7,8,9,10];
+// let newNums = myNums.filter((num) => num>5);
+// console.log(newNums);
+
+// let newNum2 = [];
+// // it is similar too 
+// myNums.forEach( (num) =>{
+//     if(num>5){
+//         newNum2.push(num);
+//     }
+// })
+// console.log(newNum2);
+
 const books = [
     { title: 'Book One', genre: 'Fiction', publish: 1981, edition: 2004 },
     { title: 'Book Two', genre: 'Non-Fiction', publish: 1992, edition: 2008 },
